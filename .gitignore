@@ -1,0 +1,4 @@
+# Only tracking files that need to be managed outside of siteground UI workflows.
+/*
+!.gitignore
+!wp-settings-d11.php
